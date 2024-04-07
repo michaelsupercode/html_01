@@ -13,3 +13,8 @@ div {
 div:hover {
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
   }
+
+  h6 {
+    margin: 5vh;
+    text-align: center;
+    }
